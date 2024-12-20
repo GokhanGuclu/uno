@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E480C9-5326-4C95-9A3C-B7CBA67A799D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\gokan\\source\\repos\\windowsformsapp1\\windowsformsapp1\\unooyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E480C9-5326-4C95-9A3C-B7CBA67A799D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\unooyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E480C9-5326-4C95-9A3C-B7CBA67A799D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\oyuntemelleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E480C9-5326-4C95-9A3C-B7CBA67A799D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\oyuntemelleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E480C9-5326-4C95-9A3C-B7CBA67A799D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\unooyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73E480C9-5326-4C95-9A3C-B7CBA67A799D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\unooyun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E480C9-5326-4C95-9A3C-B7CBA67A799D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{73E480C9-5326-4C95-9A3C-B7CBA67A799D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E480C9-5326-4C95-9A3C-B7CBA67A799D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E480C9-5326-4C95-9A3C-B7CBA67A799D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnoOyun.cs",
+              "DocumentMoniker": "C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\UnoOyun.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UnoOyun.cs",
+              "ToolTip": "C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\UnoOyun.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UnoOyun.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAUwH0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T10:03:10.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OyunTemelleri.cs",
+              "DocumentMoniker": "C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\OyunTemelleri.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\OyunTemelleri.cs",
+              "ToolTip": "C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\OyunTemelleri.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\OyunTemelleri.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T10:02:53.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnoOyun.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\UnoOyun.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\UnoOyun.cs",
+              "ToolTip": "C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\UnoOyun.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsApp1\\UnoOyun.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-28T20:56:33.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-28T20:56:30.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\gokan\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-28T20:56:28.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
